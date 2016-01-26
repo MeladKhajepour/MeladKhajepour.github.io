@@ -247,6 +247,11 @@ li[class='active'] > .hvrNav-stat:hover {
 
 #qualities {
   padding-top: 0px;
+  padding-bottom: 0;
+}
+
+#skills {
+  padding-bottom: 2em;
 }
 
 .portfolio-modal .close-modal:hover .lr  {
